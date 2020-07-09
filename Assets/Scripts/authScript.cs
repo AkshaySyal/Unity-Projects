@@ -25,7 +25,7 @@ public class authScript : MonoBehaviour
     User user = new User();
     UserNames un = new UserNames();
     private string databaseURL = "https://first-17361.firebaseio.com/users";
-    private string AuthKey = "AIzaSyCkshwSd2ADQ_oE4lLhAZrX5mYCukwcSDk";
+    private string AuthKey = "kagaz nahi dikhayenge";
     private string dburl = "https://first-17361.firebaseio.com/usernames";
     public static fsSerializer serializer = new fsSerializer();
 
